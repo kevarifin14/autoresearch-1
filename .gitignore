@@ -21,3 +21,15 @@ dev/
 
 # Results file
 results.tsv
+.DS_Store
+node_modules/
+.venv/
+venv/
+target/
+.build/
+data/
+*.parquet
+*.pt
+*.ckpt
+*.safetensors
+*.bin
